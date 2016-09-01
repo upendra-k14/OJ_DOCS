@@ -27,7 +27,7 @@ Installation
 $system_path = '/home/mohammad/secret/system';
 $application_folder = '/home/mohammad/secret/application';
 ```
-* 3. Create a MySql or PostgreSql database for Sharif Judge. Do not install any database connection package for C/C++, Java or Python.
+* 3. Create a MySql or PostgreSql database for OJ. Do not install any database connection package for C/C++, Java or Python.
 * 4. Set database connection settings in file `application/config/database.php`. You can use a prefix for your table names.
 ```php
 /*  Enter database connection settings here:  */
